@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.wrapper{
+    background-color: rgb(120, 180, 180);
+    width: 50%;
+    height: auto;
+    margin: 0px;
+    text-align: center;
+    padding: 120px;
+    border-radius: 80px;
+    margin-left: 220px;
+    margin-top: 75px;
+}
+h1, h2, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:500;
+    font-size: 2.6em;
+    text-transform: uppercase;
+  }
+  #seconds{
+      width: 200px;
+      height: 50px;
+      
+      font-size: 50px;
+      font-weight: 900;
+  }
+  #tens{
+    width: 200px;
+    height: 50px;
+   
+    font-size: 50px;
+    font-weight: 900;
+  }
+  #colon{
+    width: 200px;
+    height: 50px;
+  
+    font-size: 50px;
+    font-weight: 900;
+  }
+
+  button{
+       background-color: rgb(86, 88, 88);
+       padding: 10px;
+       margin: 20px;
+       border-radius: 5px;
+       color: white;
+       width: 100px;
+       height: 50px;
+       font-size: 20px;
+       
+    }
+ button:hover{
+     background-color: rgb(250, 245, 244);
+     color: black
+     ;
+ }   
